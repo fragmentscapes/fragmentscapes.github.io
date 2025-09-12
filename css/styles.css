@@ -1,0 +1,41 @@
+@import "nord.css";
+
+body {
+  width: 90%;
+	max-width: 55em;
+	margin: 1.5em auto;;
+  background-color: var(--nord0);
+  color: var(--nord8);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  text-decoration: none;
+  color: var(--nord9)
+}
+
+p {
+  color: var(--nord4);
+}
+
+footer {
+  border-top: 1px solid var(--nord9);
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
